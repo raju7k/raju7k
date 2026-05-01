@@ -9,7 +9,7 @@
 🚀 Software Engineer at **Avya IT**, building scalable backend systems  
 💻 Experienced in real-world applications using **Java • Spring Boot • Microservices • REST APIs**
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 ☕ Java | 🌱 Spring Boot | 🔗 Microservices  
 🗄️ MySQL | 📩 Kafka | 🔐 JWT Security  
 
