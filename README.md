@@ -1,7 +1,7 @@
 
 <p align="center"><img src="banner.png">
 
-## A Passionate Appliaction Developer and Java Backend Developer From India 
+## A Passionate Web Application and Java Backend Developer From India 
 
 
 ## 👨‍💻 About Me
